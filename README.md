@@ -1,4 +1,4 @@
-# Gemini Chatbot with Memory
+# Custom AI Chatbot with Memory
 
 A simple command-line AI chatbot built in Python, powered by the Gemini API
 (from Google AI Studio), with persistent memory across sessions.
